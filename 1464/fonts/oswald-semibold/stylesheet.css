@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'oswald-semibold';
+    src: url('oswald-semibold.eot');
+    src: url('oswald-semibold.eot?#iefix') format('embedded-opentype'),
+         url('oswald-semibold.woff2') format('woff2'),
+         url('oswald-semibold.woff') format('woff'),
+         url('oswald-semibold.ttf') format('truetype'),
+         url('oswald-semibold.svg#Oswald-SemiBold-Regular') format('svg');
+}
