@@ -114,6 +114,13 @@ margin-bottom: 20px;
     align-items: center;
     justify-content: center;
     display: flex;
+    transition:opacity 0.2s, background-color 0.2s ;
 }
 
+   .article-play-button:hover{
+   background-color: rgb(42, 42, 243);
+   }
    
+    .article-play-button:not(:disabled):active {
+    background-color: rgb(1, 1, 181);
+}
